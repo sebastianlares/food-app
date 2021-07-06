@@ -2,7 +2,7 @@
 
 ## Mockup de una aplicación de comidas
 
-- Accediendo al Home puede visualizar una lista de Restaurantes
+- Accediendo al Home se puede visualizar una lista de Restaurantes
 
 - Accediendo a los Restaurantes se puede ver una lista de platos de comidas de cada uno, y los detalles de cada plato.
 
